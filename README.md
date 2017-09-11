@@ -1,3 +1,8 @@
 # Bollywood-Movie-Data
 
-This repository contains two types of Bollywood Data -1. wikipedia-data 2. trailers-data. The corresponding Readme can be found in each folder to refer to details of each. 
+This repository contains three types of Bollywood Data: 
+1. __scripts-data__
+2. __trailers-data__ 
+3. __wikipedia-data__ 
+
+The corresponding README can be found in each folder for further reference. 
