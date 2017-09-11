@@ -16,3 +16,4 @@ This folder contains data collected from wikipedia for bollywood movies. Also, i
 	male_verb.csv	- Contains verbs used for males generated using Stanford Dependency Parser
 	songsDB.csv - contains sountrack information
 	songsFrequency.csv- contains soundtrack frequency
+	image_and_plot_mentions_fequency.csv - contains poster mentions and text mentions for males and females in each movie 
